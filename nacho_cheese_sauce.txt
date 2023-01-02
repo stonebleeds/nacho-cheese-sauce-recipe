@@ -1,11 +1,14 @@
-Nacho Cheese Sauce recipe (reference design)
+Orange Jacket Guy's epic nacho cheese sauce 
 
 Ingredients
 2 tablespoons butter
 2 tablespoons all-purpose flour
-1 cup milk 
-7 slices processed American cheese
-1/2 teaspoon salt
+1 cup milk
+7-ish slices processed American or Cheddar cheese (just use your best judgement)
+1/4 teaspoon salt (optional upon compile)
+1 tablespoon or more juice from Pepperoncini jar
+1 tablespoon or more El Yucateco Salsa Picante de Chile Habanero
+A few drops of generic BBQ sauce
 
 Directions
-In a medium saucepan over medium heat, melt butter and stir in flour. Pour in the milk and stir until the mixture thickens. Stirring constantly, mix in cheese and salt. Continue to cook and stir until cheese has melted and all ingredients are well blended, about 15 minutes.
+In a medium saucepan over medium heat, melt butter then SLOWLY sift-in flour. Pour in the milk and stir until the mixture thickens. Stirring constantly, SLOWLY mix in cheese and salt. Add more cheese to taste. When cheese is about 80% blended, SLOWLY add Pepperoncini juice then El Yucateco sauce; continue to cook and stir until cheese has melted and all ingredients are well blended. Add BBQ sauce last. About 15 minutes.
